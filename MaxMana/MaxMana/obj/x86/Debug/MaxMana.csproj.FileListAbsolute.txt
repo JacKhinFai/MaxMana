@@ -1,0 +1,41 @@
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\bin\Debug\MaxMana.exe
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\bin\Debug\MaxMana.pdb
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\obj\x86\Debug\MaxMana.csproj.ResolveComReference.cache
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\obj\x86\Debug\MaxMana.Forms.CharacterCreation.resources
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\obj\x86\Debug\MaxMana.Properties.Resources.resources
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\obj\x86\Debug\MaxMana.csproj.GenerateResource.Cache
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\obj\x86\Debug\MaxMana.exe
+C:\Users\Jack Ly\Desktop\MaxMana\MaxMana\obj\x86\Debug\MaxMana.pdb
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\Interop.MediaPlayer.dll
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\Interop.WMPLib.dll
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.csproj.ResolveComReference.cache
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.exe
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.pdb
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\bin\Debug\MaxMana.exe
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\bin\Debug\MaxMana.pdb
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.csprojResolveAssemblyReference.cache
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.Forms.CharacterCreation.resources
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.Properties.Resources.resources
+E:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.csproj.GenerateResource.Cache
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\bin\Debug\MaxMana.exe
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\bin\Debug\MaxMana.pdb
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\Interop.MediaPlayer.dll
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\Interop.WMPLib.dll
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.csproj.ResolveComReference.cache
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.Forms.CharacterCreation.resources
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.Properties.Resources.resources
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.csproj.GenerateResource.Cache
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.exe
+D:\Foundation ICT 2016-2017\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.pdb
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.csproj.ResolveComReference.cache
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.exe
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.pdb
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\bin\Debug\MaxMana.exe
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\bin\Debug\MaxMana.pdb
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.Forms.CharacterCreation.resources
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.Properties.Resources.resources
+C:\Users\Jack Ly\Documents\Foundation ICT\Year 3\Year 3 Choice\MaxMana\MaxMana\obj\x86\Debug\MaxMana.csproj.GenerateResource.Cache
